@@ -1,0 +1,37 @@
+TWO PIVOT BLOCK QUICKSORT OUTPUT
+Running time (ms) dan Memory Access (MB) untuk "besar.txt":
+225.4652976989746 ms
+49.18359375 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "besar_reversed.txt":
+576679.6774864197 ms
+49.52734375 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "besar_sorted.txt":
+587632.1980953217 ms
+50.4609375 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "kecil.txt":
+1.068115234375 ms
+48.78125 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "kecil_reversed.txt":
+16.202688217163086 ms
+48.79296875 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "kecil_sorted.txt":
+16.227245330810547 ms
+48.79296875 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "sedang.txt":
+42.53268241882324 ms
+49.046875 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "sedang_reversed.txt":
+10297.956466674805 ms
+49.1796875 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "sedang_sorted.txt":
+8689.221382141113 ms
+49.19140625 MB
+==============================

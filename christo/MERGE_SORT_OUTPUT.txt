@@ -1,0 +1,37 @@
+MERGE SORT OUTPUT
+Running time (ms) dan Memory Access (MB) untuk "besar.txt":
+191.04456901550293 ms
+50.25390625 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "besar_reversed.txt":
+154.3288230895996 ms
+51.296875 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "besar_sorted.txt":
+154.23083305358887 ms
+52.1953125 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "kecil.txt":
+1.0311603546142578 ms
+48.41796875 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "kecil_reversed.txt":
+0.9999275207519531 ms
+48.47265625 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "kecil_sorted.txt":
+1.005411148071289 ms
+48.47265625 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "sedang.txt":
+18.275022506713867 ms
+48.7421875 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "sedang_reversed.txt":
+16.024112701416016 ms
+48.91015625 MB
+==============================
+Running time (ms) dan Memory Access (MB) untuk "sedang_sorted.txt":
+15.13361930847168 ms
+48.91015625 MB
+==============================
